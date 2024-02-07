@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Codewars](https://github.r2v.ch/codewars?user=Sun%20Rah&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 <!--
 **sunrah27/sunrah27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
