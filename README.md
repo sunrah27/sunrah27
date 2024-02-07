@@ -1,4 +1,4 @@
-https://www.codewars.com/users/Sun%20Rah/badges/large
+![Codewars](https://www.codewars.com/users/Sun%20Rah/badges/large)
 <!--
 **sunrah27/sunrah27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
