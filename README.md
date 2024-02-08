@@ -12,7 +12,7 @@ I recently embraced my long time passion in software development. I have a wealt
 
 ![Codewars](https://www.codewars.com/users/Sun%20Rah/badges/large)
 
-![HTML5](/html5.png) ![CSS3](/css3.png) ![JavaScript](/javascript.png) ![Python](/python.png) ![Flask](/flask.png) ![MySQL](/mysql.png)
+![](/html5.png) ![](/css3.png) ![](/javascript.png) ![](/python.png) ![](/flask.png) ![](/mysql.png)
 
 <!--
 **sunrah27/sunrah27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
