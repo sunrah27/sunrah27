@@ -1,7 +1,7 @@
 ## Hi! I am Shanur
 I recently embraced my long time passion in software development. I have a wealth of experience working as a Project Manager and wish to one day combine my experience as a Project Manager and Developer in the future. I love the knowledge and insight I gain as I gain more experience as a developer. My Project Management experience allowed me to recognise how to apply my development skills and also view products from both User and Developer prespective. I like to learn the foundations first and build upon it instead of taking the quick and easy way out. I am comfortable with HTML. CSS, JavaScript, MySQL and Python.
 
-<img src="/html5.svg" width="40"> <img src="/css3.svg" width="40"> <img src="/javascript.svg" width="40"> <img src="/python.svg" width="40"> <img src="/flask.svg" width="40"> <img src="/mysql.svg" width="40">
+![HTML5](/html5.png) ![CSS3](/css3.png) ![JavaScript](/javascript.png) ![Python](/python.png) ![Flask](/flask.png) ![MySQL](/mysql.png)
 
 - 🔭 I’m currently working on two projects:
   - Upgrading my WeatherApp to display weather information for multiple locations.
