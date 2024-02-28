@@ -10,7 +10,6 @@ You can also check out my profile website I created [here](https://sunrah27.gith
 - 🌱 I’m currently learning React and Sass.
 - 🤔 I’m looking for help with React and Flask.
 - 📫 How to reach me: [LInkedIn](https://www.linkedin.com/in/shanur-islam-5b9120224/)
-- ⚡ Fun fact: I do math in my head in two different languages at once. Many people think it's weird :D
 
 ![Codewars](https://www.codewars.com/users/Sun%20Rah/badges/large)
 
