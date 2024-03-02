@@ -5,11 +5,11 @@ I recently embraced my long time passion in software development. I have a wealt
 You can also check out my profile website I created [here](https://sunrah27.github.io/Portfolio/).
 
 - 🔭 I’m currently working on two projects:
-  - Updating my WeatherApp to work in React
+  - Creating an IM app using React, Node, JWT, Socket.io and MongoDB
   - Creating a Living Dex to track pokemon forms.
 - 🌱 I’m currently learning React and Sass.
-- 🤔 I’m looking for help with React and Flask.
-- 📫 How to reach me: [LInkedIn](https://www.linkedin.com/in/shanur-islam-5b9120224/)
+- 🤔 I’m looking for help with Cookie.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shanur-islam-5b9120224/)
 
 ![Codewars](https://www.codewars.com/users/Sun%20Rah/badges/large)
 
