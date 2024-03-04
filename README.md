@@ -13,7 +13,15 @@ You can also check out my profile website I created [here](https://sunrah27.gith
 
 ![Codewars](https://www.codewars.com/users/Sun%20Rah/badges/large)
 
-<img src="/html5.png" width="40">  <img src="/css3.png" width="40">  <img src="/javascript.png" width="40">  <img src="/react.png" width="40">  <img src="/python.png" width="40">  <img src="/flask.png" width="40">  <img src="/mysql.png" width="40"> 
+## Technology experience
+#### Frontend
+<img src="/html5.png" width="40"> <img src="/css3.png" width="40"> <img src="/javascript.png" width="40"> <img src="/react.png" width="40">
+
+#### Backend
+<img src="/python.png" width="40"> <img src="/flask.png" width="40"> <img src="/node.png" width="40"> <img src="/express.png" width="40">
+
+#### Database
+<img src="/mysql.png" width="40"> <img src="/mongo.png" width="40"> 
 
 <!--
 **sunrah27/sunrah27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
