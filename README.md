@@ -8,8 +8,6 @@ I recently embraced my long time passion in software development. I have a wealt
 - 🌱 I’m currently learning React and Sass.
 - 🤔 I’m looking for help with Cookie.
 
-![Codewars](https://www.codewars.com/users/Sun%20Rah/badges/large)
-
 ## Technology experience
 #### Frontend
 <img src="/html5.png" width="40"> <img src="/css3.png" width="40"> <img src="/javascript.png" width="40"> <img src="/react.png" width="40">
